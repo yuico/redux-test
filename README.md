@@ -4,3 +4,4 @@
 - combineReducers in redux, 
 - useSelector, useDispatch, and Provider in react-redux
 - type and payload in action
+- https://github.com/zalmoxisus/redux-devtools-extension
